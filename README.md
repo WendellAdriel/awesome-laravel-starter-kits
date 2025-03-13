@@ -19,7 +19,7 @@ Below you can find a list of **Starter Kits** for **Laravel** divided into categ
 
 ### API
 
-**[ExA](https://github.com/WendellAdriel/laravel-exa)** - Opinionated Modularized API Skeleton for Laravel
+**[ExA](https://github.com/WendellAdriel/laravel-exa)** - Opinionated modularized API skeleton for Laravel.
 
 ---
 
