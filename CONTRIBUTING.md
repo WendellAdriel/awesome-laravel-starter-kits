@@ -15,6 +15,6 @@
 
 # Format to use
 
-`[Package Name](Repository Link) - Description`
+`**[Package Name](Repository Link)** - Description`
 
 Thanks for your contribution!
