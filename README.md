@@ -19,7 +19,7 @@ Below you can find a list of **Starter Kits** for **Laravel** divided into categ
 
 ### API
 
-**[ExA](https://github.com/WendellAdriel/laravel-exa)** - Opinionated modularized API skeleton for the latest version of Laravel and PHP with: Swagger, Pint, Pest, DTOs, base classes to speed up the development, Slack client for notifications, API structured in modules, JWT for authentication,users management out-of-the-box with simple roles system and logs on DB for user logins and for actions made on models.
+**[ExA](https://github.com/WendellAdriel/laravel-exa)** - Opinionated modularized API skeleton for the latest version of Laravel and PHP with: Swagger, Pint, Pest, DTOs, base classes to speed up the development, Slack client for notifications, API structured in modules, JWT for authentication, users management out-of-the-box with simple roles system and logs on DB for user logins and for actions made on models.
 
 ---
 
