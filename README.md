@@ -29,6 +29,12 @@ TBD
 
 ---
 
+### NativePHP
+
+**[Flux/Livewire Starter Kit for NativePHP](https://github.com/NativeCLI/starter-desktop-flux)** - Laravel 12 starter kit including, NativePHP for Desktop, Flux (Livewire) and a starter template for a new Desktop application. After installing this starter kit, it's as simple as one command to have an Electron application running Laravel 12 and PHP.
+
+---
+
 ### React
 
 TBD
