@@ -37,7 +37,7 @@ TBD
 
 ### React
 
-TBD
+**[UnfoldCMS](https://github.com/hpakdaman/unfoldcms)** - Full-featured self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui + Tailwind v4 + Inertia 2. Includes a complete admin panel, REST API v1, headless mode, and is production-ready out of the box. An excellent starting point for teams who need a CMS foundation to build on. ([Website](https://unfoldcms.com))
 
 ---
 
